@@ -1,0 +1,14 @@
+.wrapper {
+  width: 70vw;
+  max-width: 1000px;
+  margin: 2rem auto;
+}
+.bodyText {
+  font-size: 1.2rem;
+}
+.textBlock {
+  margin-bottom: 2rem;
+}
+.textCenter {
+  text-align: center;
+}

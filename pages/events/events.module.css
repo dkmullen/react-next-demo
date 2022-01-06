@@ -1,0 +1,17 @@
+.image {
+  max-width: 300px;
+}
+.wrapper {
+  text-align: center;
+  width: 70vw;
+  max-width: 500px;
+  margin: 2rem auto;
+}
+.bodyText {
+  font-size: 1.2rem;
+}
+.event {
+  margin: 2rem auto;
+  padding: 1rem;
+  
+}
